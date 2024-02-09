@@ -10,3 +10,21 @@ The [dataset](https://www.kaggle.com/datasets/jtiptj/chest-xray-pneumoniacovid19
 * Covid-19
 * Pneumonia
 * Tuberculosis
+
+## Training
+
+### Traditional way to train
+
+A training template with traditional way to print the loss and accuracy plot
+
+### WandB
+
+A training template with track the training process with WandB
+
+### Combine traitional way and W&B
+
+Combine two tracking methods together
+
+## Evaluation and Inference
+
+Evaluate the model with confusion matrix. Then input the test set to inference the model.

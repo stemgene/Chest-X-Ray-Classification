@@ -1,1 +1,4 @@
 Covid-dataset-split/
+wandb/
+__pycache__/
+mobilenetv2_trained_cov_3_based_on_1
